@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2998e43e6a3549258601d9b70b3e2665/artifacts
+end_time: 1715719657921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2998e43e6a3549258601d9b70b3e2665
+run_name: awesome-duck-646
+run_uuid: 2998e43e6a3549258601d9b70b3e2665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715719656750
+status: 4
+tags: []
+user_id: thutch28

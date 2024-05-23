@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2c5ce0a7e7f0478b9d8a5110268e7989/artifacts
+end_time: 1715724838409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c5ce0a7e7f0478b9d8a5110268e7989
+run_name: omniscient-moth-935
+run_uuid: 2c5ce0a7e7f0478b9d8a5110268e7989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715724835304
+status: 4
+tags: []
+user_id: thutch28

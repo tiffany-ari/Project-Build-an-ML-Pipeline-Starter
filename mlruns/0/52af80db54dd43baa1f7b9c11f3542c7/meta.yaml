@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/52af80db54dd43baa1f7b9c11f3542c7/artifacts
+end_time: 1715721037953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52af80db54dd43baa1f7b9c11f3542c7
+run_name: bustling-conch-778
+run_uuid: 52af80db54dd43baa1f7b9c11f3542c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715720974576
+status: 3
+tags: []
+user_id: thutch28

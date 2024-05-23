@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b3c4fad12b1d4bb288fd38814cd91254/artifacts
+end_time: 1716410553426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3c4fad12b1d4bb288fd38814cd91254
+run_name: rogue-duck-844
+run_uuid: b3c4fad12b1d4bb288fd38814cd91254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716410548318
+status: 4
+tags: []
+user_id: thutch28

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/de46e250563d494daf4d0f31b16d9c47/artifacts
+end_time: 1715637683856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de46e250563d494daf4d0f31b16d9c47
+run_name: judicious-bug-834
+run_uuid: de46e250563d494daf4d0f31b16d9c47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715637584774
+status: 3
+tags: []
+user_id: thutch28

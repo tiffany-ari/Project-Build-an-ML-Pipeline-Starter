@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/af23ca8a54ba4a1e9aa644c1b146b8ba/artifacts
+end_time: 1715724444112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af23ca8a54ba4a1e9aa644c1b146b8ba
+run_name: sincere-dove-844
+run_uuid: af23ca8a54ba4a1e9aa644c1b146b8ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715724443191
+status: 4
+tags: []
+user_id: thutch28

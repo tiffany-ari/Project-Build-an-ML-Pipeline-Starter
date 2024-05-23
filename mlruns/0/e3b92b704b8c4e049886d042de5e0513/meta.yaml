@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e3b92b704b8c4e049886d042de5e0513/artifacts
+end_time: 1715725050400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3b92b704b8c4e049886d042de5e0513
+run_name: angry-hound-396
+run_uuid: e3b92b704b8c4e049886d042de5e0513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715725049255
+status: 4
+tags: []
+user_id: thutch28

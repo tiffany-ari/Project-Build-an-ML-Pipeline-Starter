@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7a7cc77bf8194d138042170daa081f08/artifacts
+end_time: 1716411166378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a7cc77bf8194d138042170daa081f08
+run_name: suave-ape-960
+run_uuid: 7a7cc77bf8194d138042170daa081f08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716411072200
+status: 3
+tags: []
+user_id: thutch28

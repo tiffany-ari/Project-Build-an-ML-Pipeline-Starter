@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e1b5898af71240c7bf33801803efdc0e/artifacts
+end_time: 1715724947668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1b5898af71240c7bf33801803efdc0e
+run_name: defiant-cat-685
+run_uuid: e1b5898af71240c7bf33801803efdc0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715724944258
+status: 4
+tags: []
+user_id: thutch28

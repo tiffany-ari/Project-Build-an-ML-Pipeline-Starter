@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4eca0a9d04044b20bafc7a3176e3bc0a/artifacts
+end_time: 1715719367600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4eca0a9d04044b20bafc7a3176e3bc0a
+run_name: beautiful-shad-957
+run_uuid: 4eca0a9d04044b20bafc7a3176e3bc0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715719365738
+status: 4
+tags: []
+user_id: thutch28

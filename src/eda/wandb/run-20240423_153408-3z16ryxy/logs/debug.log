@@ -1,0 +1,30 @@
+2024-04-23 15:34:08,439 INFO    MainThread:13202 [wandb_setup.py:_flush():68] Configure stats pid to 13202
+2024-04-23 15:34:08,439 INFO    MainThread:13202 [wandb_setup.py:_flush():68] Loading settings from /home/thutch28/.config/wandb/settings
+2024-04-23 15:34:08,439 INFO    MainThread:13202 [wandb_setup.py:_flush():68] Loading settings from /home/thutch28/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/settings
+2024-04-23 15:34:08,439 INFO    MainThread:13202 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2024-04-23 15:34:08,439 INFO    MainThread:13202 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-04-23 15:34:08,439 INFO    MainThread:13202 [wandb_init.py:_log_setup():478] Logging user logs to /home/thutch28/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240423_153408-3z16ryxy/logs/debug.log
+2024-04-23 15:34:08,439 INFO    MainThread:13202 [wandb_init.py:_log_setup():479] Logging internal logs to /home/thutch28/Project-Build-an-ML-Pipeline-Starter/src/eda/wandb/run-20240423_153408-3z16ryxy/logs/debug-internal.log
+2024-04-23 15:34:08,439 INFO    MainThread:13202 [wandb_init.py:_jupyter_setup():428] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7ff9ac196ca0>
+2024-04-23 15:34:08,440 INFO    MainThread:13202 [wandb_init.py:init():518] calling init triggers
+2024-04-23 15:34:08,440 INFO    MainThread:13202 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-04-23 15:34:08,440 INFO    MainThread:13202 [wandb_init.py:init():571] starting backend
+2024-04-23 15:34:08,440 INFO    MainThread:13202 [wandb_init.py:init():575] setting up manager
+2024-04-23 15:34:08,441 INFO    MainThread:13202 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-04-23 15:34:08,443 INFO    MainThread:13202 [wandb_init.py:init():582] backend started and connected
+2024-04-23 15:34:08,448 INFO    MainThread:13202 [wandb_run.py:_label_probe_notebook():1202] probe notebook
+2024-04-23 15:34:08,448 INFO    MainThread:13202 [wandb_init.py:init():670] updated telemetry
+2024-04-23 15:34:08,484 INFO    MainThread:13202 [wandb_init.py:init():710] communicating run to backend with 60.0 second timeout
+2024-04-23 15:34:09,122 INFO    MainThread:13202 [wandb_run.py:_on_init():2121] communicating current version
+2024-04-23 15:34:09,342 INFO    MainThread:13202 [wandb_run.py:_on_init():2125] got version response upgrade_message: "wandb version 0.16.6 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-04-23 15:34:09,342 INFO    MainThread:13202 [wandb_init.py:init():758] starting run threads in backend
+2024-04-23 15:34:11,311 INFO    MainThread:13202 [wandb_run.py:_console_start():2101] atexit reg
+2024-04-23 15:34:11,311 INFO    MainThread:13202 [wandb_run.py:_redirect():1959] redirect: SettingsConsole.WRAP_RAW
+2024-04-23 15:34:11,312 INFO    MainThread:13202 [wandb_run.py:_redirect():2024] Wrapping output streams.
+2024-04-23 15:34:11,312 INFO    MainThread:13202 [wandb_run.py:_redirect():2046] Redirects installed.
+2024-04-23 15:34:11,312 INFO    MainThread:13202 [wandb_init.py:init():798] run started, returning control to user process
+2024-04-23 15:34:21,190 INFO    MainThread:13202 [wandb_init.py:_pause_backend():391] pausing backend
+2024-04-23 15:34:21,190 INFO    MainThread:13202 [jupyter.py:_save_ipynb():390] looking for notebook: eda.ipynb
+2024-04-23 15:34:21,551 INFO    MainThread:13202 [wandb_init.py:_pause_backend():395] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x7ff964390b50>

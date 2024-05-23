@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d707b35438184e53adb4734eec8573f9/artifacts
+end_time: 1715724681125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d707b35438184e53adb4734eec8573f9
+run_name: capable-cow-809
+run_uuid: d707b35438184e53adb4734eec8573f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715724680035
+status: 4
+tags: []
+user_id: thutch28

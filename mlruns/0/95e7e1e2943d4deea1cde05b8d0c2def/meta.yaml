@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/95e7e1e2943d4deea1cde05b8d0c2def/artifacts
+end_time: 1715724755577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95e7e1e2943d4deea1cde05b8d0c2def
+run_name: upbeat-conch-767
+run_uuid: 95e7e1e2943d4deea1cde05b8d0c2def
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715724754503
+status: 4
+tags: []
+user_id: thutch28

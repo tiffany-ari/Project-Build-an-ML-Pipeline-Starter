@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cdb3d63cd55e40ea9283fae977d33f1c/artifacts
+end_time: 1715721038122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdb3d63cd55e40ea9283fae977d33f1c
+run_name: loud-shrike-632
+run_uuid: cdb3d63cd55e40ea9283fae977d33f1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715720972393
+status: 3
+tags: []
+user_id: thutch28

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0a1eb859eb5a4bd39cf2f6f6174a9960/artifacts
+end_time: 1715724838226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a1eb859eb5a4bd39cf2f6f6174a9960
+run_name: upbeat-mink-467
+run_uuid: 0a1eb859eb5a4bd39cf2f6f6174a9960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715724837116
+status: 4
+tags: []
+user_id: thutch28

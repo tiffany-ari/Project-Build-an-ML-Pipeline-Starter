@@ -1,0 +1,27 @@
+2024-05-14 13:49:08,121 INFO    MainThread:11453 [wandb_setup.py:_flush():68] Configure stats pid to 11453
+2024-05-14 13:49:08,121 INFO    MainThread:11453 [wandb_setup.py:_flush():68] Loading settings from /home/thutch28/.config/wandb/settings
+2024-05-14 13:49:08,121 INFO    MainThread:11453 [wandb_setup.py:_flush():68] Loading settings from /home/thutch28/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/settings
+2024-05-14 13:49:08,121 INFO    MainThread:11453 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True', 'run_group': 'development', 'project': 'nyc_airbnb'}
+2024-05-14 13:49:08,121 INFO    MainThread:11453 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': 'src/basic_cleaning/run.py', 'program': '/home/thutch28/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py'}
+2024-05-14 13:49:08,121 INFO    MainThread:11453 [wandb_init.py:_log_setup():478] Logging user logs to /home/thutch28/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240514_134908-jo3w12nt/logs/debug.log
+2024-05-14 13:49:08,121 INFO    MainThread:11453 [wandb_init.py:_log_setup():479] Logging internal logs to /home/thutch28/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240514_134908-jo3w12nt/logs/debug-internal.log
+2024-05-14 13:49:08,122 INFO    MainThread:11453 [wandb_init.py:init():518] calling init triggers
+2024-05-14 13:49:08,122 INFO    MainThread:11453 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-05-14 13:49:08,122 INFO    MainThread:11453 [wandb_init.py:init():571] starting backend
+2024-05-14 13:49:08,122 INFO    MainThread:11453 [wandb_init.py:init():575] setting up manager
+2024-05-14 13:49:08,125 INFO    MainThread:11453 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-05-14 13:49:08,127 INFO    MainThread:11453 [wandb_init.py:init():582] backend started and connected
+2024-05-14 13:49:08,131 INFO    MainThread:11453 [wandb_init.py:init():670] updated telemetry
+2024-05-14 13:49:08,142 INFO    MainThread:11453 [wandb_init.py:init():710] communicating run to backend with 60.0 second timeout
+2024-05-14 13:49:08,884 INFO    MainThread:11453 [wandb_run.py:_on_init():2121] communicating current version
+2024-05-14 13:49:09,187 INFO    MainThread:11453 [wandb_run.py:_on_init():2125] got version response upgrade_message: "wandb version 0.17.0 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-05-14 13:49:09,187 INFO    MainThread:11453 [wandb_init.py:init():758] starting run threads in backend
+2024-05-14 13:49:09,930 INFO    MainThread:11453 [wandb_run.py:_console_start():2101] atexit reg
+2024-05-14 13:49:09,931 INFO    MainThread:11453 [wandb_run.py:_redirect():1959] redirect: SettingsConsole.WRAP_RAW
+2024-05-14 13:49:09,931 INFO    MainThread:11453 [wandb_run.py:_redirect():2024] Wrapping output streams.
+2024-05-14 13:49:09,932 INFO    MainThread:11453 [wandb_run.py:_redirect():2046] Redirects installed.
+2024-05-14 13:49:09,932 INFO    MainThread:11453 [wandb_init.py:init():798] run started, returning control to user process
+2024-05-14 13:49:09,933 INFO    MainThread:11453 [wandb_run.py:_config_callback():1249] config_cb None None {'input_artifact': 'sample.csv:latest', 'output_artifact': 'clean_sample.csv', 'output_type': 'clean_sample', 'output_description': 'Data with outliers and null values removed', 'min_price': 10.0, 'max_price': 350.0}
+2024-05-14 13:49:39,124 WARNING MsgRouterThr:11453 [router.py:message_loop():77] message_loop has been closed

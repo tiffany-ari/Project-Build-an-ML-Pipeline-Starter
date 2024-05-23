@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f734376931b54b33bfda728e92c23a2e/artifacts
+end_time: 1716410553111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f734376931b54b33bfda728e92c23a2e
+run_name: efficient-skunk-34
+run_uuid: f734376931b54b33bfda728e92c23a2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716410551620
+status: 4
+tags: []
+user_id: thutch28

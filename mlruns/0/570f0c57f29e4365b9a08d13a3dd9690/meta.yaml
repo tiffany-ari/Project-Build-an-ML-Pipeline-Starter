@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/570f0c57f29e4365b9a08d13a3dd9690/artifacts
+end_time: 1716410771195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 570f0c57f29e4365b9a08d13a3dd9690
+run_name: wistful-bird-109
+run_uuid: 570f0c57f29e4365b9a08d13a3dd9690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716410676736
+status: 4
+tags: []
+user_id: thutch28

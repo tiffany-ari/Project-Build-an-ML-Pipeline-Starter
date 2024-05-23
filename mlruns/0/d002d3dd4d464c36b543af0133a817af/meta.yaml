@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d002d3dd4d464c36b543af0133a817af/artifacts
+end_time: 1714069361703
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d002d3dd4d464c36b543af0133a817af
+run_name: calm-sow-406
+run_uuid: d002d3dd4d464c36b543af0133a817af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714069359842
+status: 4
+tags: []
+user_id: thutch28

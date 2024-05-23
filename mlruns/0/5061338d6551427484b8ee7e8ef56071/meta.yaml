@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5061338d6551427484b8ee7e8ef56071/artifacts
+end_time: 1716421283168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5061338d6551427484b8ee7e8ef56071
+run_name: bemused-jay-349
+run_uuid: 5061338d6551427484b8ee7e8ef56071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716421197474
+status: 3
+tags: []
+user_id: thutch28

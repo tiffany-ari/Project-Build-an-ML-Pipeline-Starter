@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b9121bbb92b848cc85d86ce1440259dc/artifacts
+end_time: 1715724444314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9121bbb92b848cc85d86ce1440259dc
+run_name: bouncy-shrike-816
+run_uuid: b9121bbb92b848cc85d86ce1440259dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715724441373
+status: 4
+tags: []
+user_id: thutch28

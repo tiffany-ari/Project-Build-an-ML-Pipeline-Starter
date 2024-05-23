@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/52a410f251da4d6d86b980d3978e9372/artifacts
+end_time: 1713928113568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52a410f251da4d6d86b980d3978e9372
+run_name: masked-shark-302
+run_uuid: 52a410f251da4d6d86b980d3978e9372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713928112412
+status: 4
+tags: []
+user_id: thutch28

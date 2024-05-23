@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/28a4843001d14f1c88fd07ed2465c122/artifacts
+end_time: 1715721428909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28a4843001d14f1c88fd07ed2465c122
+run_name: secretive-pig-647
+run_uuid: 28a4843001d14f1c88fd07ed2465c122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715721316424
+status: 3
+tags: []
+user_id: thutch28

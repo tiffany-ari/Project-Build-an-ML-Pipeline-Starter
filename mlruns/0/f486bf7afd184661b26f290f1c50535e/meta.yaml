@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f486bf7afd184661b26f290f1c50535e/artifacts
+end_time: 1716411072093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f486bf7afd184661b26f290f1c50535e
+run_name: sedate-worm-195
+run_uuid: f486bf7afd184661b26f290f1c50535e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716410972227
+status: 3
+tags: []
+user_id: thutch28

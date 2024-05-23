@@ -1,0 +1,112 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-05-22T20:48:26.190099",
+    "startedAt": "2024-05-22T20:48:25.536868",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/home/thutch28/Project-Build-an-ML-Pipeline-Starter/multirun/2024-05-22/13-48-22/0/rf_config.json",
+        "--max_tfidf_features",
+        "5",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "/home/thutch28/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/tiffany-ari/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": null,
+    "root": "/home/thutch28/Project-Build-an-ML-Pipeline-Starter",
+    "host": "Tiffys-laptop",
+    "username": "thutch28",
+    "executable": "/home/thutch28/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2611.3179999999998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2611.318,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2611.318,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2611.318,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2611.318,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2611.318,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2611.318,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2611.318,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2611.318,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2611.318,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2611.318,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2611.318,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2611.318,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 16.7850341796875
+    },
+    "memory": {
+        "total": 7.606678009033203
+    }
+}
