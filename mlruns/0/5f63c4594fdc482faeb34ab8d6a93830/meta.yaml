@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5f63c4594fdc482faeb34ab8d6a93830/artifacts
+end_time: 1716506396869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f63c4594fdc482faeb34ab8d6a93830
+run_name: silent-mouse-16
+run_uuid: 5f63c4594fdc482faeb34ab8d6a93830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716506348227
+status: 3
+tags: []
+user_id: thutch28

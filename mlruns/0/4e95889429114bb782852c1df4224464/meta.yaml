@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4e95889429114bb782852c1df4224464/artifacts
+end_time: 1716506772230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e95889429114bb782852c1df4224464
+run_name: casual-squirrel-100
+run_uuid: 4e95889429114bb782852c1df4224464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716506740926
+status: 3
+tags: []
+user_id: thutch28

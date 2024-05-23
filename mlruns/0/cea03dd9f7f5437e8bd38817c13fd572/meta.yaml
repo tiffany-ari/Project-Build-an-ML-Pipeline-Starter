@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cea03dd9f7f5437e8bd38817c13fd572/artifacts
+end_time: 1716506791785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cea03dd9f7f5437e8bd38817c13fd572
+run_name: likeable-whale-957
+run_uuid: cea03dd9f7f5437e8bd38817c13fd572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716506707807
+status: 4
+tags: []
+user_id: thutch28

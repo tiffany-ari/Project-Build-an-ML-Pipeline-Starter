@@ -1,0 +1,15 @@
+artifact_uri: file:///home/thutch28/Project-Build-an-ML-Pipeline-Starter/mlruns/0/023a7556f03d44d6aafd743fafccab64/artifacts
+end_time: 1716506458900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 023a7556f03d44d6aafd743fafccab64
+run_name: invincible-snake-627
+run_uuid: 023a7556f03d44d6aafd743fafccab64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716506339305
+status: 4
+tags: []
+user_id: thutch28
