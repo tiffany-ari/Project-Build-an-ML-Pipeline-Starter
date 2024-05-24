@@ -9,6 +9,8 @@ In this project you will build such a pipeline.
 
 <a href="https://wandb.ai/thutch28/nyc_airbnb">WandB project link</a>
 
+<a href="https://github.com/tiffany-ari/Project-Build-an-ML-Pipeline-Starter">GitHub link</a>
+
 
 ## Table of contents
 
